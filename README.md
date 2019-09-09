@@ -1,3 +1,3 @@
 Use command !kick to kick somebody.
 
-Can be changed at line 8
+Can be changed at line 11
